@@ -1,0 +1,7 @@
+{
+  "env": {
+    "PASSWORD": "root",
+    "DATABASE": "demo-db",
+    "JWT_KEY": "#gfr@%^&"
+  }
+}
