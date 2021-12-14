@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=""
+VERSION="major"
 
 # get parameters
 while getopts v: flag
