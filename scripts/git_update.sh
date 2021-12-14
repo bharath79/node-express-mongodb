@@ -44,7 +44,7 @@ VNUM1=${CURRENT_VERSION_PARTS[0]}
 # fi
 
 # create new tag
-NEW_TAG="$VNUM1"
+NEW_TAG="v2"
 # NEW_TAG="$VNUM1.$VNUM2.$VNUM3"
 echo "($VERSION) updating $CURRENT_VERSION to $NEW_TAG"
 
